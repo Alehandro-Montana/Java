@@ -4,6 +4,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.Stack;
 
+// задати два стека,поміняти інформацію місцями
 public class StackClass {
 
     public static  void main(String[] args){
